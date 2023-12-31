@@ -1,0 +1,1 @@
+与[《信息检索》课程项目](https://github.com/mrcaidev/information-retrieval)完全一致。
